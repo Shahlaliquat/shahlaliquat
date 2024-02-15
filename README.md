@@ -1,3 +1,4 @@
+![log](https://github.com/Shahlaliquat/shahlaliquat/blob/main/Black%20White%20Modern%20Data%20Analyst%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Shahla Liaquat</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
