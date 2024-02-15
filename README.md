@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahla Liaquat</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- • I’m skilled in **Excel, Power BI,SQL &Python**
+- I’m skilled in **Excel, Power BI,SQL &Python**
 
-- • How to reach me **shahlaliaquat0@gmali.com**
+- How to reach me **shahlaliaquat0@gmali.com**
 
 - Fun fact **Fun fact I'm a Physicist Turned Data Enthusiast | Once Fueled Engines, Now Fueling Data Analysis**
 
@@ -20,6 +20,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahlaliquat&show_icons=true&locale=en&layout=compact" alt="shahlaliquat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahlaliquat&" alt="shahlaliquat" /></p>
+
 
 
 
