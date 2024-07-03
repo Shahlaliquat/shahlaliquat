@@ -4,7 +4,7 @@
 
 - I’m skilled in **Excel, Power BI,SQL &Python**
 
-- How to reach me **shahlaliaquat0@gmali.com**
+- How to reach me **shahlaliaquat56@gmali.com**
 
 - Fun fact **Fun fact I'm a Physicist Turned Data Enthusiast | Once Fueled Engines, Now Fueling Data Analysis**
 
