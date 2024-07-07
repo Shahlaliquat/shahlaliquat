@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shahla Liaquat</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- I’m skilled in **Excel, Power BI,SQL &Python**
+- I’m skilled in **Excel, Power BI,SQL & Python**
 
 - How to reach me **shahlaliaquat56@gmali.com**
 
