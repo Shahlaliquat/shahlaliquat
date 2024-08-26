@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Shahla Liaquat</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- I’m skilled in **Excel, Power BI, Looker Studio , SQL & Python**
+- I’m skilled in **Excel, Power BI, Looker Studio, SQL & Python**
 
-- How to reach me **shahlaliaquat56@gmali.com**
+- How to reach me **shahlaliaquat56@gmail.com**
 
 - Fun fact **Fun fact I'm a Physicist Turned Data Enthusiast | Once Fueled Engines, Now Fueling Data Analysis**
 
