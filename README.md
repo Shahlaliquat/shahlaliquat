@@ -1,4 +1,4 @@
-![log](https://github.com/Shahlaliquat/shahlaliquat/blob/main/shahla%20Liaquat.png)
+
 <h1 align="center">Hi 👋, I'm Shahla Liaquat</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
