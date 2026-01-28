@@ -35,4 +35,4 @@ My research focuses on building **software infrastructure for Self-Driving Labs*
 ---
 
 ### 📫 Connect with me
-[LinkedIn]((https://www.linkedin.com/in/shahla-liaquat/))
+[LinkedIn]([https://www.linkedin.com/in/shahla-liaquat/])
