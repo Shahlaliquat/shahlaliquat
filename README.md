@@ -1,5 +1,5 @@
 # Hi, I'm Shahla Liaquat 👋
-\n Computational Physicist & Renewable Energy Researcher ☀️
+Computational Physicist & Renewable Energy Researcher ☀️
 Leveraging Data Engineering for High-Throughput Materials Discovery.
 Creator of CrystalScout (Solar Screening Agent).
 Stack: Python • ROOT (C++) • PyTorch • Monte Carlo Simulations.
