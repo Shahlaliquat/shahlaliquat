@@ -1,13 +1,8 @@
 # Hi, I'm Shahla Liaquat 👋
-### ⚛️ Computational Physicist | AI for Science
-
-I bridge the gap between **Condensed Matter Physics** and **Generative AI**.
-My research focuses on building **software infrastructure for Self-Driving Labs**, using Deep Learning to accelerate the discovery of renewable energy materials.
-
-- 🔭 **I’m currently working on:** Generative VAEs for Inverse Material Design.
-- 🔬 **Research Interest:** Materials Informatics, Autonomous Screening Agents, Bayesian Optimization.
-- 👯 **I’m looking to collaborate on:** Open-source tools for Computational Materials Science.
-- ⚡ **Fun fact:** I use code to "dream" up new crystals that don't exist yet!
+Computational Physicist & Renewable Energy Researcher ☀️
+Leveraging Data Engineering for High-Throughput Materials Discovery.
+Creator of CrystalScout (Solar Screening Agent).
+Stack: Python • ROOT (C++) • PyTorch • Monte Carlo Simulations.
 
 ---
 
